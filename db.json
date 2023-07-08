@@ -1,0 +1,65 @@
+{
+  "events":[
+      { 
+          "IdEvent":1,
+          "Name":"PFEAwds",
+          "Place": "DeltaCenter",
+          "Date":"2023/05/12",
+          "Responsable":"headmaster",
+          "Capacity":100
+
+      },
+      { 
+          "IdEvent":2,
+          "Name":"EniCultureDay",
+          "Place": "Enicarthage Annex",
+          "Date":"2023/05/19",
+          "Responsable":"ChefDepInfo",
+          "Capacity":50
+
+      },
+      { 
+          "IdEvent":3,
+          "Name":"Enicyber",
+          "Place": "Enicarthage ",
+          "Date":"2023/06/20",
+          "Responsable":"Club president",
+          "Capacity":20
+
+      },
+      { 
+        "IdEvent":4,
+        "Name":"FEE",
+        "Place": "Utica ",
+        "Date":"2023/01/25",
+        "Responsable":"Club president",
+        "Capacity":30
+
+    },
+    { 
+      "IdEvent":5,
+      "Name":"Iftar",
+      "Place": "Enicarthage Annex",
+      "Date":"2023/02/25",
+      "Responsable":"Club president",
+      "Capacity":20
+
+  },
+  { 
+    "IdEvent":6,
+    "Name":"Marathon",
+    "Place": "Olympic city ",
+    "Date":"2023/091/25",
+    "Responsable":"Club president",
+    "Capacity":100
+
+}
+
+
+
+
+
+
+
+  ]
+}
